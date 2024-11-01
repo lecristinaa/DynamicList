@@ -93,7 +93,7 @@ int main(){
     }
     printf("\n\n");
 
-    // Teste do redimensionamento automático
+    // Removendo os elementos da fila
     printf("Removendo: %d \n", *(int*)(removerDaFila(fila)));
     printf("Removendo: %d \n", *(int*)(removerDaFila(fila)));
     printf("Removendo: %d \n", *(int*)(removerDaFila(fila)));
